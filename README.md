@@ -413,8 +413,6 @@ I hope you have learned a lot! Thanks for reading!
 
 Editing some changes to commit
 
-More changes to commit
-
 
 
 
