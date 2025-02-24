@@ -5,6 +5,7 @@ ok
 ok
 ok
 ok
+ok
 
 # MLOps with Docker and Jenkins: Automating Machine Learning Pipelines
 
