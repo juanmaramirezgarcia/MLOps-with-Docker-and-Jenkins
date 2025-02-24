@@ -1,11 +1,6 @@
 All credits to Adrian González Carpintero who posted this article in Towards Data Science
 https://towardsdatascience.com/mlops-with-docker-and-jenkins-automating-machine-learning-pipelines-a3a4026c4487
 
-ok
-ok
-ok
-ok
-ok
 
 # MLOps with Docker and Jenkins: Automating Machine Learning Pipelines
 
